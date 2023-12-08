@@ -77,6 +77,9 @@ md"""
 # ╔═╡ 59cde2c3-00cb-4464-9fe1-1f03a8d015ec
 md" the most common graph interface in Julia is offered by Graphs and it's ecosystem"
 
+# ╔═╡ 4014a23e-e43f-4872-b270-3331718298d0
+
+
 # ╔═╡ b4aa4c88-8579-426f-bea7-c3ced4c49dc8
 md"we will start with a classic"
 
@@ -2774,6 +2777,7 @@ version = "3.5.0+0"
 # ╟─546406f4-fc13-4149-9a86-31322c584614
 # ╟─59cde2c3-00cb-4464-9fe1-1f03a8d015ec
 # ╠═15d5cad9-107a-4fa1-bc33-6f16ce5b0e10
+# ╠═4014a23e-e43f-4872-b270-3331718298d0
 # ╠═b4aa4c88-8579-426f-bea7-c3ced4c49dc8
 # ╠═d74fc98a-cd80-4480-9657-ab5b24f8b32e
 # ╠═bd1c460c-ba9e-457e-a747-5864ee6b6f11
